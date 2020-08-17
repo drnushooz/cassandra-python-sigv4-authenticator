@@ -1,2 +1,5 @@
 venv
 .idea
+dist
+build
+cassandra_python_sigv4_authentication.egg-info
